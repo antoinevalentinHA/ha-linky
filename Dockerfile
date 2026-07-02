@@ -1,7 +1,7 @@
 ARG BUILD_FROM
 FROM $BUILD_FROM
 
-LABEL org.opencontainers.image.source=https://github.com/bokub/ha-linky
+LABEL org.opencontainers.image.source=https://github.com/antoinevalentinHA/ha-linky
 LABEL org.opencontainers.image.description="HA Linky Add-on"
 LABEL org.opencontainers.image.licenses=MIT
 
